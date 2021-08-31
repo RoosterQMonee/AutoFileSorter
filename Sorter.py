@@ -1,3 +1,5 @@
+# this is still a work in progress, just an idea i had to automatically sort files
+
 from watchdog.observer import Observer
 import time
 from watchdog.events import FileSystemEventHandler
